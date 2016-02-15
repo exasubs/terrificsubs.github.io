@@ -5,6 +5,14 @@ clear:both;
 padding:0;
 }
 
+.ongoing {
+font-family:Verdana;
+font-size:12px;
+clear:both;
+padding:0;
+background-color: rgb(243, 244, 245);
+}
+
 .linkful {
 color:#000;
 }
